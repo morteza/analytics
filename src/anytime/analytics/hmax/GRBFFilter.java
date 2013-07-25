@@ -1,5 +1,5 @@
 /*******************************************************************************
- *        File: Cell.java
+ *        File: GRBFFilter.java
  *      Author: Morteza Ansarinia <ansarinia@me.com>
  *  Created on: Jul 25, 2013
  *     Project: AnyTime Analytics - Prediction Toolkit
@@ -8,6 +8,7 @@
 
 package anytime.analytics.hmax;
 
-public class GRBFFilter {
-
+public class GRBFFilter extends Filter {
+	int xyCount;
+	float sigma;
 }

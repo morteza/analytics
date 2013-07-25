@@ -1,5 +1,5 @@
 /*******************************************************************************
- *        File: LayerS2.java
+ *        File: Level.java
  *      Author: Morteza Ansarinia <ansarinia@me.com>
  *  Created on: Jul 25, 2013
  *     Project: AnyTime Analytics - Prediction Toolkit
@@ -8,6 +8,12 @@
 
 package anytime.analytics.hmax;
 
-public class LayerS2 extends Layer {
+import java.util.List;
 
+public class Level {
+	public String name;
+	public Filter filter;
+	private Network network;
+	private int index;
+	List<Layer> layers;
 }

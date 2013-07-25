@@ -1,5 +1,5 @@
 /*******************************************************************************
- *        File: Cell.java
+ *        File: GaborFilter.java
  *      Author: Morteza Ansarinia <ansarinia@me.com>
  *  Created on: Jul 25, 2013
  *     Project: AnyTime Analytics - Prediction Toolkit
@@ -10,10 +10,13 @@ package anytime.analytics.hmax;
 
 import java.util.List;
 
-public class GaborFilter {
+public class GaborFilter extends Filter {
+	
+	public GaborFilter(List<Double> thetas, int size, double lambda, float sigma, float aspect) {
+		
+	}
+	
 	int size;
-	List<Integer> thetas;
-	double lambda;
-	double sigma;
-	double aspect;
+	int thetaCount;
+	List<Double> gabors;
 }
