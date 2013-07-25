@@ -7,7 +7,7 @@
  *******************************************************************************/
 
 
-package anytime.analytics.prediction;
+package anytime.analytics.cla;
 
 public class ProximalSynapse {
 	Boolean input;

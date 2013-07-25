@@ -6,7 +6,7 @@
  *   Copyright: See the file "LICENSE" for the full license governing this code.
  *******************************************************************************/
 
-package anytime.analytics.prediction;
+package anytime.analytics.cla;
 
 import java.util.List;
 

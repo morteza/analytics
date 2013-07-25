@@ -1,22 +1,18 @@
 /*******************************************************************************
- *        File: Region.java
+ *        File: CellSynapse.java
  *      Author: Morteza Ansarinia <ansarinia@me.com>
  *  Created on: Jul 25, 2013
  *     Project: AnyTime Analytics - Prediction Toolkit
  *   Copyright: See the file "LICENSE" for the full license governing this code.
  *******************************************************************************/
 
-package anytime.analytics.prediction;
 
-import java.util.List;
+package anytime.analytics.cla;
 
-public class Region {
-	int rows;
-	int cols;
-	List<Column> columns;
-	int desiredLocalActivity;
-	int inhibitionRadius;
-	
-	List<Boolean> outputs;
-	List<Boolean> inputs;
+/**
+ * @author morteza
+ *
+ */
+public class CellSynapse {
+
 }
