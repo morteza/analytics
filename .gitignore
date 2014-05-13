@@ -4,3 +4,4 @@
 /.project
 /eclipse
 *.class
+.DS_Store

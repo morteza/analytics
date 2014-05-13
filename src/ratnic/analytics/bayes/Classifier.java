@@ -8,7 +8,7 @@
  *   Copyright: See the file "LICENSE" for the full license governing this code.
  *******************************************************************************/
 
-package aytime.analytics.bayes;
+package ratnic.analytics.bayes;
 
 import java.util.Collection;
 import java.util.Dictionary;
