@@ -4,11 +4,11 @@
  *    Revision: 3
  * Description: 
  *  Created on: December 14, 2012
- *     Project: ratnic.analytics
+ *     Project: anytime.analytics
  *   Copyright: See the file "LICENSE" for the full license governing this code.
  *******************************************************************************/
 
-package ratnic.analytics.bayes;
+package anytime.analytics.bayes;
 
 import java.util.Collection;
 import java.util.Dictionary;
