@@ -1,6 +1,6 @@
 /*******************************************************************************
  *        File: BayesClassifier.java
- *      Author: Morteza Ansarinia <morteza@ratnic.se>
+ *      Author: Morteza Ansarinia <ansarinia@me.com>
  *    Revision: 4
  * Description: 
  *  Created on: December 14, 2012

@@ -1,6 +1,6 @@
 /*******************************************************************************
  *        File: Test.java
- *      Author: Morteza Ansarinia <morteza@ratnic.se>
+ *      Author: Morteza Ansarinia <ansarinia@me.com>
  *    Revision: 8
  * Description: Test naive bayes classifier for Farsi language.
  *  Created on: December 14, 2012
